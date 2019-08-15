@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/Indolence/Indolence.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Indolence/runtime/Indolence.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/Indolence/sandbox/Indolence.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
